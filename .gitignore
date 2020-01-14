@@ -1,7 +1,11 @@
-src/main/app/node_modules
 target
 .settings
 .classpath
 .project
+src/main/app/node_modules
+src/main/app/node
 src/main/webapp/css
 src/main/webapp/js
+src/main/webapp/img
+src/main/webapp/index.html
+src/main/webapp/favicon.ico
